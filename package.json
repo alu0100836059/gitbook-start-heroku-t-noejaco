@@ -1,6 +1,6 @@
 {
   "name": "gitbook-start-heroku-t-noejaco",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin para el despliegue del libro en Heroku",
   "main": "gitbook-start-heroku-t-noejaco.js",
   "scripts": {
@@ -20,12 +20,12 @@
     "name": "Jacobo Rodicio González",
     "email": "alu0100836059@ull.edu.es",
     "url": "http://alu0100836059.github.io/pagina_personal/"
-    },
+  },
   "contributors": [
     {
-    "name": "Noé Campos",
-    "email": "alu0100622492@ull.edu.es",
-    "url": "http://dsi1516.github.io/Practica1/"
+      "name": "Noé Campos",
+      "email": "alu0100622492@ull.edu.es",
+      "url": "http://dsi1516.github.io/Practica1/"
     }
   ],
   "repository": {
