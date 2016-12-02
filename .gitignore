@@ -1,0 +1,4 @@
+node_modules/
+.token_heroku
+.log
+npm-debug.log
